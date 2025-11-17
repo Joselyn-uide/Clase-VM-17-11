@@ -1,4 +1,4 @@
 ls 
 touch miprimerarchivo
-echo 'hola mundo' < miprimerarchivo
+echo 'hola mundo' > miprimerarchivo
 cat miprimerarchivo
